@@ -1,4 +1,4 @@
-# SE_Assignement1
+# SE_Assign1
 SOFTWARE ENGINEERING
 
 Assignment – 1 (Clean The Code)
